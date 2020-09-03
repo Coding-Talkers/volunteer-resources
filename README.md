@@ -8,7 +8,7 @@ Collection of resources to help volunteers all the way through the Volunteership
 
 ## Volunteership courses
 
--   [Learning Figma Basics :black_nib:]
+-   [Learning Figma Basics :black_nib:](https://github.com/Coding-Talkers/volunteer-resources/blob/master/courses/Figma-Basics/1.home.md)
 -   [HTML and CSS Basics :computer:]
 -   [Introduction to git :card_index_dividers:]
 -   [What the heck is kanban? :coffee:]
