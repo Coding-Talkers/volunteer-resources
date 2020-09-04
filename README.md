@@ -18,3 +18,13 @@ Find everything discussed inside the courses and additional information!
 -   [Deep dive into UX :paintbrush:]
 -   [Javascript story tales :notebook:]
 -   [Responsive layout with flexbox :iphone:]
+
+## Additional resources
+
+Find some useful tools like emmet, extensions, plugins, etc. that can help you while developing.
+
+-   [Emmet](https://github.com/Coding-Talkers/volunteer-resources/blob/master/courses/html-css/1.home.md#emmet-cheat-sheet)
+
+-   [Visual Studio Code Extensions](https://github.com/Coding-Talkers/volunteer-resources/blob/master/courses/html-css/1.home.md#visual-studio-code)
+
+-   [Figma Plugins](https://github.com/Coding-Talkers/volunteer-resources/blob/master/courses/Figma-Basics/9.moreInfo.md#figma-plugins)
